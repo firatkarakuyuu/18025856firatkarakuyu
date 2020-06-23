@@ -1,3 +1,3 @@
-# Used Toys Exchange E-commerce
+# Used Toys Exchange
 ## Author
 ### FIRAT KARAKUYU
